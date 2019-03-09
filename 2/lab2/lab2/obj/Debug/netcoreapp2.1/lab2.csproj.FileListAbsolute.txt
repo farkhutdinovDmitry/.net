@@ -1,0 +1,11 @@
+C:\study3.0\c#\seminar\2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.deps.json
+C:\study3.0\c#\seminar\2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.json
+C:\study3.0\c#\seminar\2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.dev.json
+C:\study3.0\c#\seminar\2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.dll
+C:\study3.0\c#\seminar\2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.pdb
+C:\study3.0\c#\seminar\2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.csprojAssemblyReference.cache
+C:\study3.0\c#\seminar\2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.csproj.CoreCompileInputs.cache
+C:\study3.0\c#\seminar\2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfoInputs.cache
+C:\study3.0\c#\seminar\2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfo.cs
+C:\study3.0\c#\seminar\2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.dll
+C:\study3.0\c#\seminar\2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.pdb
